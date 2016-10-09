@@ -4,3 +4,6 @@ coverage
 
 .idea
 *.iml
+
+*.tgz
+.DS_Store
